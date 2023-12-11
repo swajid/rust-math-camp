@@ -1,3 +1,5 @@
+//pseudocode-ish, updating cargo
+
 extern crate nalgebra as na;
 use na::{DMatrix, Matrix3x3, Const};
 
