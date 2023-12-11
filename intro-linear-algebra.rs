@@ -1,7 +1,7 @@
 extern crate nalgebra as na;
-use na::{DMatrix, Matrix3x2, Const};
+use na::{DMatrix, Matrix3x3, Const};
 
-use matrixcompare::comparators::{AbsoluteElementwiseComparator, ExactElementwiseComparator};
+//use matrixcompare::comparators::{AbsoluteElementwiseComparator, ExactElementwiseComparator};
 use matrixcompare::compare_matrices;
 
 
